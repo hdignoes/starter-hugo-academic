@@ -36,19 +36,12 @@ experience:
         * Modelling
         * Deploying
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
   
   
   - title: Tutor
     company: Paper
     company_url: 'https://paper.co/'
+    company_logo: paper
     location: Vancouver, BC
     date_start: '2020-08-01'
     date_end: '2021-07-31'
