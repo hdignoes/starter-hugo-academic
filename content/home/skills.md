@@ -24,7 +24,7 @@ feature:
   icon: python
   icon_pack: custom
   name: Python
-- description: I speak English, Spanish, French, and Catalan.
+- description: Fluency in English and Spanish, near-fluent proficiency in French and Catalan.
   icon: volume-up
   icon_pack: fas
   name: Languages
