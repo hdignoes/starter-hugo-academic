@@ -65,6 +65,7 @@ experience:
     date_end: '2020-08-01'
     description: |2-
       Worked with a 3D printing company to make cheap PPE available at the start of the COVID-19 pandemic. 
+      
       Established stakeholder needs and developed quality of life and comfort improvements without sacrificing safety.
       
       
@@ -77,7 +78,9 @@ experience:
     date_end: '2019-05-01'
     description: |2-
       Worked with a PhD candidate on measurement of mechanical properties of viscoelastic neural cells.
+      
       Designed and developed novel device to provide accurate measurements, reducing price by 80% compared to existing prototype while improving accuracy.
+      
       Worked without supervision, designing experimental procedures and collecting and analyzing data to validate the device.
       
 
