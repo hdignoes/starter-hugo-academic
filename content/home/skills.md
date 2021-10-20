@@ -16,14 +16,14 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: ''
+- description: Experience modelling, sizing, and optimizing processes using AspenTech software.
   icon: aspen
   icon_pack: custom
   name: Aspen Plus/HYSYS
-- description: 100%
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
+- description: Significant experience processing data and building models using functional Python. Some experience with objective coding in Python.
+  icon: python
+  icon_pack: custom
+  name: Python
 - description: 10%
   icon: camera-retro
   icon_pack: fas
