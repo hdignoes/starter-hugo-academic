@@ -26,7 +26,7 @@ education:
   courses:
   - course: BASc in Chemical Engineering
     institution: The University of British Columbia
-    year: 22021
+    year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
