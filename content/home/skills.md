@@ -24,10 +24,10 @@ feature:
   icon: python
   icon_pack: custom
   name: Python
-- description: 10%
-  icon: camera-retro
+- description: I speak English, Spanish, French, and Catalan.
+  icon: volume-up
   icon_pack: fas
-  name: Photography
+  name: Languages
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
