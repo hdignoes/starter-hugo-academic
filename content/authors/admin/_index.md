@@ -20,6 +20,8 @@ bio: Majored in ChemE, minored in analytical chemistry. I like chess and taking 
 interests:
 - Energy and Waste Recovery
 - Green Engineering
+- Catalysis
+- Computational Modelling
 
 # Education to show in About widget
 education:
