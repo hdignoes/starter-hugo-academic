@@ -17,8 +17,8 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: ''
-  icon: tree
-  icon_pack: fab
+  icon: aspen
+  icon_pack: custom
   name: Aspen Plus/HYSYS
 - description: 100%
   icon: chart-line
