@@ -59,8 +59,8 @@ email: ""
 highlight_name: true
 ---
 
-Hugo Dignoes is a graduate of the University of British Columbia's chemical engineering program. He is also the first (and so far only) UBC Applied Science student to have completed a minor in chemistry! Enjoys chess, and is always itching to play the Icelandic Gambit if given the chance.
+I am a graduate of the University of British Columbia's chemical engineering program, and the first (and so far only) UBC Applied Science student to have completed a minor in chemistry! I enjoy chess and taking on small home projects, from building a chess bot to designing a basic control system to grow cherry tomatoes.
 
-Winner of the APSC Design and Innovation Day Award for his capstone project on the design and simulation of a novel Sabatier process sponsored by FortisBC, former AICHE regional chapter executive, former ChemE Car team lead. 
+Winner of the APSC Design and Innovation Day Award for my capstone project on the design and simulation of a novel Sabatier process sponsored by FortisBC, former AICHE regional chapter executive, former ChemE Car team lead and UBC Envision safety officer. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
