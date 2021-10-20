@@ -10,12 +10,12 @@ date: "2016-04-27T00:00:00Z"
 external_link: ''
 
 image:
-  caption: Project Poster 
+  caption: 
   focal_point: Smart
 
 links:
 url_code: ""
-url_pdf: https://apsc-chbe.sites.olt.ubc.ca/files/2021/04/P9-Poster.pdf
+url_poster: https://apsc-chbe.sites.olt.ubc.ca/files/2021/04/P9-Poster.pdf
 url_slides: ""
 url_video: ""
 
