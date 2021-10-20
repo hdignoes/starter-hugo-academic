@@ -52,7 +52,7 @@ experience:
     location: Vancouver, BC
     date_start: '2020-08'
     date_end: '2021-07'
-    description: Helped schools across USA and Canada adapt to online learning during the COVID-19 pandemic by providing 24/7 support to students. |2-
+    description: |2- Helped schools across USA and Canada adapt to online learning during the COVID-19 pandemic by providing 24/7 support to students. |2-
       Taught:
       
       * Chemistry
