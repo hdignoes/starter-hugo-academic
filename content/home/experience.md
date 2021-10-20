@@ -44,6 +44,25 @@ experience:
     date_start: '2016-01-01'
     date_end: '2020-12-31'
     description: Taught electronic engineering and researched semiconductor physics.
+  
+  
+  - title: Tutor
+    company: Paper
+    company_url: 'https://paper.co/'
+    location: Vancouver, BC
+    date_start: '2020-08'
+    date_end: '2021-07'
+    description: Helped schools across USA and Canada adapt to online learning during the COVID-19 pandemic by providing 24/7 support to students. |2-
+      Taught:
+      
+      * Chemistry
+      * Physics
+      * Math
+      * Cellular Biology and Biochemistry
+      * Spanish
+      * French
+      
+      
 
 design:
   columns: '2'
