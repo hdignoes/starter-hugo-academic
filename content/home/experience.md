@@ -91,6 +91,8 @@ experience:
       
       Handled disposal of chemical and material waste.
       
+      Handled restructuring of UBC ChemE Car into the umbrella organization UBC Envision. This required revision of all SOPs, and retraining of several members.
+      
   - title: Electrical Team Lead
     company: UBC ChemE Car
     company_url: https://www.ubcenvision.com/chemecar/
