@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://apsc-chbe.sites.olt.ubc.ca/files/2021/04/P9-Poster.pdf
+- certificate_url: ''
   date_end: ""
   date_start: "2021-04-01"
   description: "My capstone project was chosen by industry experts for its rigor and depth. I will be uploading a more in-depth discussion to my projects page, so check that out!"
