@@ -31,7 +31,7 @@ Carbon dioxide emissions are in large part responsible for the climate crisis we
 
 The Sabatier reaction is a much-studied but rarely implemented process to turn carbon dioxide into methane. It takes in hydrogen and CO<sub>2</sub> and produces water and methane. The reaction achieves over 99% conversion at high pressures over a nickel catalyst.
 
-CO<sub>2</sub> + 4H<sub>2</sub> &#8594 CH<sub>4</sub> + H<sub>2</sub>O + 165kJ
+CO<sub>2</sub> + 4H<sub>2</sub> &#8594 CH<sub>4</sub> + H<sub>2</sub>O $\Delta H = 165kJ/mol$
 
 Our task was to find out why nobody was applying it at large scale. It's only really being used in the International Space Station as part of their life support system. Surely it can be scaled up? The answer, according Swiss cement maufacturers the answer is "maybe"! In the only plant of its kind, Swiss engineers temporarily installed a Sabatier reactor on a CO<sub>2</sub>-rich effluent stream to reduce their carbon emissions. This worked very well in reducing the carbon emissions, however an economic analysis suggested an investment of over 30 billion Swiss francs would be required to do this for all the cement plants in Switzerland. Needless to say it hasn't really caught on. However, we are not working with CO2 from a cement plant with no nearby gas infrastructure. Our case study is a biogas plant currently operated by our sponsors. It is located in Abbotsford, BC and has two large anaerobic digesters are already sending natural gas into the city grid, and producing a significant amount of carbon dioxide. The pre-existance of gas infrastructure, higher carbon dioxide volume, and wider availability of renewable energy significantly reduce the costs of the process.
 
