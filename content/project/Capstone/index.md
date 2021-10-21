@@ -16,7 +16,7 @@ image:
 links:
 url_code: ""
 url_poster: https://apsc-chbe.sites.olt.ubc.ca/files/2021/04/P9-Poster.pdf
-url_pdf: static/uploads/capstonereport
+url_pdf: ''
 url_video: ""
 
 # Slides (optional).
@@ -24,7 +24,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+pdf: capstonereport
 ---
 
 The Sabatier process is a much-studied process that has almost never been implemented. The most notable example of its application is in the International Space Station's Environmental Control and Life Support System, where it serves to remove CO2 released by astronauts and make methane fuel and water. The reaction is fairly simple and is really just steam reformation, except it's backwards. The reaction is as follows:
