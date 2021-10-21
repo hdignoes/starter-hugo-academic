@@ -16,7 +16,7 @@ image:
 links:
 url_code: ""
 url_poster: https://apsc-chbe.sites.olt.ubc.ca/files/2021/04/P9-Poster.pdf
-url_slides: ""
+url_pdf: static/uploads/capstonereport
 url_video: ""
 
 # Slides (optional).
