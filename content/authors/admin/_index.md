@@ -29,6 +29,9 @@ education:
   - course: BASc in Chemical Engineering
     institution: The University of British Columbia
     year: 2021
+  - course: IB Diploma
+    institution: International School of Geneva
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
