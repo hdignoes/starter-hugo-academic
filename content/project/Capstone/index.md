@@ -26,7 +26,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 pdf: capstonereport
 ---
-<p align="justified">
+<p align="justify">
 Carbon dioxide emissions are in large part responsible for the climate crisis we currently find ourselves in. As the world begins to shift towards more sustainable practices, significant attention is being given to novel processes and innovative technologies that either reduce or eliminate carbon dioxide emissions. As our project sponsors, FortisBC asked us to look into a potential pathway to help them reduce their environmental impacts without significantly decreasing their natural gas output. Most homes in British Columbia rely on natural gas for heating, and most likely will for years to come. Its energy density, easy storage, and efficient transportation are almost unparalleled, and, if responsibly sourced and used, it can play a key role in transitioning away from non-renewable energy sources.
 
 The Sabatier reaction is a straightforward reaction, that at face value, looks to almost be a silver bullet against climate change. It takes in carbon dioxide and hydrogen, and puts out methane and hot water. 
