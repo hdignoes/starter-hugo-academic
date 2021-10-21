@@ -67,7 +67,42 @@ experience:
       Designed and developed novel device to provide accurate measurements, reducing price by 80% compared to existing prototype while improving accuracy.
       
       Worked without supervision, designing experimental procedures and collecting and analyzing data to validate the device.
+  
+  - title: VP Exterior
+    company: UBC Envision
+    company_url: 'https://www.ubcenvision.com/'
+    company_logo: envision
+    date_start: '2018-06-01'
+    date_end: '2018-10-01'
+    description: Responsible for setting up conferences across the summer and in preparation for the upcoming academic year. Also acted as a liaison between our own AICHE chapter and our sister chapter in Barcelona.
+    
+  - title: Safety Officer
+    company: UBC Envision
+    company_url: 'https://www.ubcenvision.com/'
+    company_logo: envision
+    date_start: '2017-06-01'
+    date_end: '2018-06-01'
+    description: |2-
+      Was responsible for risk assessment and hazard mitigation for all Envision teams and projects.
       
+      Conducted safety inspections and routine audits of facilities (2 labs, 1 workshop, 1 work room).
+      
+      Performed maintenance of equipment (various benchtop and power tools, 2 3D printers)
+      
+      Handled disposal of chemical and material waste.
+      
+  - title: Electrical Team Lead
+    company: UBC ChemE Car
+    company_url: https://www.ubcenvision.com/chemecar/
+    company_logo: envision
+    date_start: '2016-09-01'
+    date_end: '2017-05-01'
+    description: |2-
+      Managed a team of 6 students in the design and building of a circuit for a small chemically-powered car.
+      
+      Built and optimized a basic control system using an arduino microcontroller and series of MOSFETs, servos, and photoresistors.
+      
+      Coordinated with two other teams to create an empirical model of car speed and iodine clock reaction based on initial conditions.
 
 design:
   columns: '2'
