@@ -68,7 +68,7 @@ experience:
       
       Worked without supervision, designing experimental procedures and collecting and analyzing data to validate the device.
   
-  - title: VP Exterior
+  - title: VP External
     company: UBC Envision
     company_url: 'https://www.ubcenvision.com/'
     company_logo: envision
