@@ -62,7 +62,7 @@ email: ""
 highlight_name: true
 ---
 
-I am a graduate of the University of British Columbia's chemical engineering program, and the first (and so far only) UBC Applied Science student to have completed a minor in chemistry! I enjoy chess and taking on small home projects, from building a chess bot to designing a basic control system to grow cherry tomatoes.
+I am a graduate of the University of British Columbia's chemical engineering program, and the first (and so far only) UBC Applied Science student to have completed a minor in chemistry! I enjoy chess and taking on small home projects, from building a chess bot to designing a basic control system for growing cherry tomatoes.
 
 Winner of the APSC Design and Innovation Day Award for my capstone project on the design and simulation of a novel Sabatier process sponsored by FortisBC, former AICHE regional chapter executive, former ChemE Car team lead and UBC Envision safety officer. 
 
