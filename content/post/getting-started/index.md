@@ -1,12 +1,12 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+title: Natural Gas in a Sustainable World
+subtitle: The case for methane as part of a transition to clean energy
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: Natural gas and natural gas infrastructure can play a key role in a country's transition to clean energy, and might actually be the key to centralized solar power.
 
 # Link this post with a project
-projects: []
+projects: [Capstone]
 
 # Date published
 date: "2020-12-13T00:00:00Z"
@@ -30,76 +30,24 @@ image:
 
 authors:
 - admin
-- 吳恩達
 
 tags:
 - Academic
-- 开源
 
 categories:
-- Demo
-- 教程
 ---
 
-## Overview
+## Make no mistake, natural gas is not clean energy
 
-1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
-3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
+Despite what some companies might say, natural gas is not "clean-burning". It releases carbon dioxide when burned, just like any other hydrocarbon. Moreover, methane leaks can actually pose a very serious problem: 1kg of CH<sub>4</sub> has the same effect on global warming as a whopping 84kg of CO<sub>2</sub>! But that doesn't automatically make it bad. Natural gas is among the best understood and most energy-dense fuels we have, and we've been working on ways to burn it as efficiently as possible since the late 1700s. With the world moving towards clean energy sources (wind, solar, hydro...) a big challenge for engineers and policymakers is how the excess capacity should be stored. This is a particularly popular talking point among political pundits and fossil fuel lobby groups who want to convince the public that solar energy is bad, despite [it being the cheapest source of electricity available](https://www.carbonbrief.org/solar-is-now-cheapest-electricity-in-history-confirms-iea), and having [enormous potential throughout most inhabited regions in the world](https://www.worldbank.org/en/topic/energy/publication/solar-photovoltaic-power-potential-by-country). But they do raise a good point, albeit in bad faith. Variable energy sources, such as solar do have a significant challenge: energy storage. Up until now, this hasn't been a massive issue because fossil fuels are just stored as they are and burned as they're needed.
+{{< figure src="https://www.camfil.com/-/media/images/qbank/__web/about-camfil/sustainability/biogas-industryjpg.jpg?rev=1fb08a464ad84e728fd7aa97658bf750&h=641&iar=0&preset=webp&mw=1200&w=1200&hash=03B50ABB664A99AFDD6BF7EE4BCD186B" title="A biogas plant. Photo reprinted from [Camfil](https://www.camfil.com/en-us/insights/energy-and-power-systems/biogas-industry-filtration)." >}}
+We do have some forms of energy storage, with the most common being pumped hydropower, where water is pumped into a reservoir such as a dam, storing electrical energy as potential energy. When demand for power rises we can simply let the water flow back down over a set of turbines, generating electrical power. However, this system is not ideal. First of all, it requires massive capital to build these structures, and they aren’t cheap. A typical impoundment dam built to serve a large city can cost significantly more than $5B, and that’s just the initial construction. Maintenance costs can rise quickly since these structures require frequent and meticulous inspection of the dam itself as well as its associated spillways, particularly in areas with heavy rainfall. There are also legislative challenges, as residents and environmental groups are not always happy that their forest, mountain, or even homes will be flooded to make room for these dams. Finally, and perhaps most importantly, this form of energy storage requires a significant height differential. The greater the height, the greater the potential energy and therefore the smaller (and cheaper) you can build your dam for a given energy capacity. This isn’t a problem for places like Canada or Switzerland, where hills and mountains are almost omnipresent, but consider a state like Florida, Minnesota, or Illinois where mountains and prominent hills are relatively rare, and often far from major cities. These places are not well-suited for large-scale pumped hydro, and given its efficiency of around 70%, it’s not a particularly attractive investment for taxpayers. The other obvious form of storage is batteries. It’s easy to think that battery technology has reached the point where widespread usage in a nation’s electrical grid is already here, but that’s simply untrue. They are used, but at the high cost of around $150/kWh, they are only really used to maintain an operating reserve of power or a few hours of peak energy production. They are plagued by lithium and cobalt shortages, relatively low energy densities, and surface phenomena (such as dendrite formation) which can reduce their operational lifetimes and increase their internal resistance. At their best, they boast a respectable 80-90% efficiency, but for the aforementioned reasons, true grid reliance on battery technology is still a good decade away.
 
-{{< figure src="https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png" title="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
+Enter the Sabatier reaction. If you’ve read through my capstone project page then you’re already familiar with the Sabatier reaction
+{{< figure src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9954c5b345addcf6421c02b5becd4db9e4dde1c8" title="Reprinted from Wikimedia " >}}
+but just in case I’ll summarize it here. It’ a catalyzed reaction that requires high pressure (ca. 10bar) and high temperatures (400°C is common, but it works just fine around 270°C). Under these conditions using a nickel catalyst, the reaction can achieve almost complete conversion in a PFR, with no side reactions of note. In short, for every mole of carbon dioxide you put in, you get a mole of methane out. But how is this related to energy storage?
 
-## Get Started
+Well, the hydrogen required by the reaction has to come from somewhere, and if that somewhere is electrolysis (which can easily be integrated into a solar or wind farm) you are effectively storing clean energy as a fossil fuel. Contradictory, right? There’s a reason why this is desired and can even be better than just storing the hydrogen itself. Natural gas is ubiquitous and has been for the past 20-odd years. Most of the electricity produced in the United States, for example, actually comes from natural gas, not oil or coal as many people think (note: this is electricity, not total energy which includes transportation). The infrastructure is already in place to supply homes with natural gas for heating, store liquefied natural gas, and natural gas power plants are already being upgraded to more efficient furnace models. Pipelines are already in place to move liquefied natural gas to remote communities and across states and provinces. Historically, these have all been part of the fossil fuel industry that is largely responsible for the situation we’re in, but with the Sabatier process, they could be used to transport carbon-neutral energy from a high renewable-producing area (such as BC) to areas with next to no clean energy production (such as Alberta or Saskatchewan). The costs associated with this transition are just the cost of buying electrolyzers and building methanation reactors near industries producing CO<sub>2</sub>-rich streams (i.e. most of them). Far less than the costs of building multiple dams, or massive batteries.
 
-- 👉 [**Create a new site**](https://wowchemy.com/templates/)
-- 📚 [**Personalize your site**](https://wowchemy.com/docs/)
-- 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=(%23MadeWithWowchemy%20OR%20%23MadeWithAcademic)&src=typed_query)
-- 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/wowchemy/wowchemy-hugo-modules/issues)
-- ⬆️ **Updating Wowchemy?** View the [Update Tutorial](https://wowchemy.com/docs/hugo-tutorials/update/) and [Release Notes](https://wowchemy.com/updates/)
+Ultimately, it’s not a perfect solution. It still releases CO<sub>2</sub> back into the atmosphere, and we definitely want to find carbon-negative solutions as we go forward. But for the immediate future? The Sabatier process and natural gas might be our best bet. High energy density, well-understood thermodynamics and physical properties, and a strong total cycle efficiency of over 80% make it an attractive investment that I hope to see gain traction in the next five years.
 
-## Crowd-funded open-source software
-
-To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
-
-### [❤️ Click here to become a sponsor and help support Wowchemy's future ❤️](https://wowchemy.com/plans/)
-
-As a token of appreciation for sponsoring, you can **unlock [these](https://wowchemy.com/plans/) awesome rewards and extra features 🦄✨**
-
-## Ecosystem
-
-* **[Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli):** Automatically import publications from BibTeX
-
-## Inspiration
-
-[Check out the latest **demo**](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the **showcase**](https://wowchemy.com/user-stories/) of personal, project, and business sites.
-
-## Features
-
-- **Page builder** - Create *anything* with [**widgets**](https://wowchemy.com/docs/page-builder/) and [**elements**](https://wowchemy.com/docs/content/writing-markdown-latex/)
-- **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
-- **Create content** in [**Markdown**](https://wowchemy.com/docs/content/writing-markdown-latex/), [**Jupyter**](https://wowchemy.com/docs/import/jupyter/), or [**RStudio**](https://wowchemy.com/docs/install-locally/)
-- **Plugin System** - Fully customizable [**color** and **font themes**](https://wowchemy.com/docs/customization/)
-- **Display Code and Math** - Code highlighting and [LaTeX math](https://en.wikibooks.org/wiki/LaTeX/Mathematics) supported
-- **Integrations** - [Google Analytics](https://analytics.google.com), [Disqus commenting](https://disqus.com), Maps, Contact Forms, and more!
-- **Beautiful Site** - Simple and refreshing one page design
-- **Industry-Leading SEO** - Help get your website found on search engines and social media
-- **Media Galleries** - Display your images and videos with captions in a customizable gallery
-- **Mobile Friendly** - Look amazing on every screen with a mobile friendly version of your site
-- **Multi-language** - 34+ language packs including English, 中文, and Português
-- **Multi-user** - Each author gets their own profile page
-- **Privacy Pack** - Assists with GDPR
-- **Stand Out** - Bring your site to life with animation, parallax backgrounds, and scroll effects
-- **One-Click Deployment** - No servers. No databases. Only files.
-
-## Themes
-
-Wowchemy and its templates come with **automatic day (light) and night (dark) mode** built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the [Demo](https://academic-demo.netlify.com/) to see it in action! Day/night mode can also be disabled by the site admin in `params.toml`.
-
-[Choose a stunning **theme** and **font**](https://wowchemy.com/docs/customization) for your site. Themes are fully customizable.
-
-## License
-
-Copyright 2016-present [George Cushen](https://georgecushen.com).
-
-Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md) license.
