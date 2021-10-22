@@ -51,4 +51,4 @@ Well, the hydrogen required by the reaction has to come from somewhere, and if t
 
 Ultimately, it’s not a perfect solution. It still releases CO<sub>2</sub> back into the atmosphere, and we definitely want to find carbon-negative solutions as we go forward. But for the immediate future? The Sabatier process and natural gas might be our best bet. High energy density, well-understood thermodynamics and physical properties, and a strong total cycle efficiency of over 80% make it an attractive investment that I hope to see gain traction in the next five years.
 
-  </p>
+</p>
