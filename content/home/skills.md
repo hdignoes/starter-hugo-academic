@@ -24,7 +24,7 @@ feature:
   icon: python
   icon_pack: custom
   name: Python
-- description: Fluency in English and Spanish, near-fluent proficiency in French and Catalan.
+- description: Native in English and Spanish, proficient in French and Catalan.
   icon: volume-up
   icon_pack: fas
   name: Languages
