@@ -1,6 +1,6 @@
 ---
 title: Methanation of Carbon Dioxide Using Hydrogen Obtained Through Water Electrolysis
-summary: My capstone project! Methantion of waste CO2 in 
+summary: My capstone project! Methantion of waste CO2 in British Columbia
 tags:
 - Energy
 - Green Engineering
