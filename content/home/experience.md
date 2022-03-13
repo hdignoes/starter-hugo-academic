@@ -27,7 +27,7 @@ experience:
     company_url: 'upham.chbe.ubc.ca/'
     company_logo: ubc
     location: Vancouver, BC
-    date_start: '2021-12-01'
+    date_start: '2021-11-01'
     date_end: ''
     description: Assisting a research group at the University of British Columbia using Aspentech software to build a process model.
     
