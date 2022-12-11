@@ -6,7 +6,7 @@ title: Hugo Dignoes
 superuser: true
 
 # Role/position/tagline
-role: Chemical Process Engineering Graduate
+role: Chemical Process Engineering Graduate Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: https://www.ubc.ca/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Majored in ChemE, minored in analytical chemistry. I like chess and taking on random coding projects.
+bio: Majored in ChemE, minored in analytical chemistry. I like chess, gardening, and taking on random projects.
 
 # Interests to show in About widget
 interests:
@@ -62,7 +62,7 @@ email: ""
 highlight_name: true
 ---
 
-I am a graduate of the University of British Columbia's chemical engineering program, and the first (and so far only) UBC Applied Science student to have completed a minor in chemistry! I enjoy chess and taking on small home projects, from building a chess bot to designing a basic control system for growing cherry tomatoes.
+I am a masters student at the University of British Columbia, where I am aiding in catalysis research. I completed my BASc at UBC as well - they just can't get rid of me! During my undergrad I majored in chemical process engineering and minored in analytical chemistry. In both cases I was particularly interested by computation - something I am making heavy use of in my research. In my free time I enjoy skiing, gardening, and taking on small projects, like building a chess bot or setting up small-scale vertical farms in my basement.
 
 Winner of the APSC Design and Innovation Day Award for my capstone project on the design and simulation of a novel Sabatier process sponsored by FortisBC, former AICHE regional chapter executive, former ChemE Car team lead and UBC Envision safety officer. 
 
