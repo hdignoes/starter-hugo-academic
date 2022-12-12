@@ -29,7 +29,12 @@ experience:
     location: Vancouver, BC
     date_start: '2021-11-01'
     date_end: ''
-    description: Assisting a research group at the University of British Columbia using Aspentech software to build a process model.
+    description: |2- 
+      A technoeconomic analysis of a novel dehydrogenation catalyst. 
+      
+      Heavy simulation component using Python and Aspentech software (Aspen Plus, HYSYS, Adsorption, Energy Analyzer).
+      
+      Experiments performed to inform the model.
     
   - title: Tutor
     company: Paper
