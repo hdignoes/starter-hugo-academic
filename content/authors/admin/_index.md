@@ -66,4 +66,4 @@ I am a masters student at the University of British Columbia, where I am aiding 
 
 Winner of the APSC Design and Innovation Day Award for my capstone project on the design and simulation of a novel Sabatier process sponsored by FortisBC, former AICHE regional chapter executive, former ChemE Car team lead and UBC Envision safety officer. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
