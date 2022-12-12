@@ -26,9 +26,9 @@ item:
 - certificate_url: ''
   date_end: ""
   date_start: "2021-04-01"
-  description: "My capstone project was chosen by industry experts for its rigor and depth. I will be uploading a more in-depth discussion to my projects page, so check that out!"
+  description: "My capstone project (Group P9) was chosen by industry experts for its rigor and depth. I will be uploading a more in-depth discussion to my projects page, so check that out!"
   organization: UBC
-  organization_url: https://chbe.ubc.ca/undergraduate/academics/capstone-design/
+  organization_url: https://chbe.ubc.ca/2020w-capstone-design-projects/
   title: Design and Innovation Day Award in Chemical Process Engineering
   url: ""
 - certificate_url: https://www.codecademy.com/profiles/Haddit/certificates/1c05e0382bc5681c824c4cbe85c126fd
