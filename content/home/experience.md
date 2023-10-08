@@ -22,19 +22,40 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+
+  - title: Process Engineering Consultant
+    company: Freelance (contracted by Exaer Carbon)
+    company_url: 'exarcarbon.com'
+    company_logo: exaer
+    location: Boulder, CO (remote)
+    date_start: '2023-05-30'
+    date_end: '2023-08-01'
+    description: |2- 
+      Ran a feasibility analysis on a proposed process with the purpose of facilitating a patent application.
+
+      Simulated a catalytic process using open-source software and custom code.
+
+      Performed a sensitivity analysis to search for possible break-even conditions.
+
+      Produced a class 5 technoeconomic model, along with a levelized cost of production based on process evaluation.
+    
   - title: Student Researcher
     company: UBC
     company_url: 'upham.chbe.ubc.ca/'
     company_logo: ubc
     location: Vancouver, BC
-    date_start: '2021-11-01'
-    date_end: ''
+    date_start: '2021-10-01'
+    date_end: '2023-11-01'
     description: |2- 
-      A technoeconomic analysis of a novel dehydrogenation catalyst. 
+      A technoeconomic analysis of novel dehydrogenation catalysts and their associated processes. 
       
       Heavy simulation component using Python and Aspentech software (Aspen Plus, HYSYS, Adsorption, Energy Analyzer).
+
+      Modeling of reactor as well as upstream and downstream unit operations including separations and heat integration.
       
-      Experiments performed to inform the model.
+      Sizing and costing of necessary equipment. Operating expenses also determined.
+
+      Economic evaluation of the processes based on the above.
     
   - title: Tutor
     company: Paper
