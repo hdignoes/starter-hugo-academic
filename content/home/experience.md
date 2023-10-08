@@ -23,6 +23,18 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
+  - title: Mitacs Intern
+    company: UBC - LEAP Lab
+    company_url: 'https://www.leap-ires.org/'
+    company_logo: ubc
+    location: Vancouver, BC
+    date_start: '2023-09-01'
+    date_end: ''
+    description: |2-
+      Holistically assessed various technologies for decarbonization of the Canadian Coast Guard fleet.
+
+      Established the needs and desires of stakeholders through consultation and workshops, then designed performance metrics accordingly, creating a decisionmaking framework.
+    
   - title: Process Engineering Consultant
     company: Freelance (contracted by Exaer Carbon)
     company_url: 'exarcarbon.com'
@@ -40,7 +52,7 @@ experience:
       Produced a class 5 technoeconomic model, along with a levelized cost of production based on process evaluation.
     
   - title: Student Researcher
-    company: UBC
+    company: UBC - Catalysis Lab
     company_url: 'upham.chbe.ubc.ca/'
     company_logo: ubc
     location: Vancouver, BC
