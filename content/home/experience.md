@@ -37,7 +37,7 @@ experience:
     
   - title: Process Engineering Consultant
     company: Freelance (contracted by Exaer Carbon)
-    company_url: 'exarcarbon.com'
+    company_url: 'https://exaercarbon.com/'
     company_logo: exaer
     location: Boulder, CO (remote)
     date_start: '2023-05-30'
